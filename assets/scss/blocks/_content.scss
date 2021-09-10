@@ -1,0 +1,3 @@
+.content {
+    min-height: calc(100vh - #{$desktop-footer-height + $desktop-header-height});
+}
